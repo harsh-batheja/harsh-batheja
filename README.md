@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d2a,50:0f4c5c,100:14b8a6&height=250&section=header&text=Harsh%20Batheja&fontSize=44&fontColor=e6fffb&fontAlignY=32&desc=AI%20Agent%20Platforms%20%7C%20TypeScript%20%26%20Node.js%20%7C%20Infrastructure&descSize=17&descColor=99f6e4&descAlignY=52&animation=fadeIn" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d2a,50:0f4c5c,100:14b8a6&height=250&section=header&text=Harsh%20Batheja&fontSize=44&fontColor=e6fffb&fontAlignY=32&desc=AI%20Agent%20Platforms%20%7C%20TypeScript%20and%20Node.js%20%7C%20Infrastructure&descSize=17&descColor=99f6e4&descAlignY=52&animation=fadeIn" width="100%" /></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
