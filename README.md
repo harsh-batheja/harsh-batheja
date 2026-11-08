@@ -191,9 +191,9 @@ Before that I was the <b>sole infrastructure owner</b> for a smart-building orga
 | | |
 |:---|:---|
 | 🤖 **agent-orchestrator** | 45 PRs merged to main · 49 PRs reviewed · 14th of 133 contributors · 14.2k ⭐ project |
-| 🖥️ **OpenHands** | 1 merged PR · 92.8k ⭐ project |
+| 🖥️ **OpenHands** | 1 merged PR · 92.9k ⭐ project |
 
-<sub>Updated automatically from the GitHub API · 2026-11-07</sub>
+<sub>Updated automatically from the GitHub API · 2026-11-08</sub>
 
 </div>
 <!--STATS:END-->
