@@ -190,10 +190,10 @@ Before that I was the <b>sole infrastructure owner</b> for a smart-building orga
 
 | | |
 |:---|:---|
-| 🤖 **agent-orchestrator** | 45 PRs merged to main · 49 PRs reviewed · 14th of 135 contributors · 14.5k ⭐ project |
-| 🖥️ **OpenHands** | 1 merged PR · 93.3k ⭐ project |
+| 🤖 **agent-orchestrator** | 45 PRs merged to main · 49 PRs reviewed · 14th of 137 contributors · 14.6k ⭐ project |
+| 🖥️ **OpenHands** | 1 merged PR · 93.4k ⭐ project |
 
-<sub>Updated automatically from the GitHub API · 2026-11-13</sub>
+<sub>Updated automatically from the GitHub API · 2026-11-14</sub>
 
 </div>
 <!--STATS:END-->
