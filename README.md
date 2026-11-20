@@ -193,7 +193,7 @@ Before that I was the <b>sole infrastructure owner</b> for a smart-building orga
 | 🤖 **agent-orchestrator** | 45 PRs merged to main · 49 PRs reviewed · 14th of 140 contributors · 14.9k ⭐ project |
 | 🖥️ **OpenHands** | 1 merged PR · 93.8k ⭐ project |
 
-<sub>Updated automatically from the GitHub API · 2026-11-19</sub>
+<sub>Updated automatically from the GitHub API · 2026-11-20</sub>
 
 </div>
 <!--STATS:END-->
@@ -203,11 +203,11 @@ Before that I was the <b>sole infrastructure owner</b> for a smart-building orga
 ## Recently Merged
 
 <!--RECENT:START-->
+- [ifubaraboye/omarchy-dock#30](https://github.com/ifubaraboye/omarchy-dock/pull/30) macOS-style right-click context menus anchored at the icon
 - [OpenHands/OpenHands#17225](https://github.com/OpenHands/OpenHands/pull/17225) feat(desktop): universal macOS DMG with per-arch bundled runtimes
 - [OrchestratorInc/agent-orchestrator#1549](https://github.com/OrchestratorInc/agent-orchestrator/pull/1549) fix(web): render empty-state in sidebar when no projects configured
 - [OrchestratorInc/agent-orchestrator#1390](https://github.com/OrchestratorInc/agent-orchestrator/pull/1390) feat(plugin): implement kimicode agent plugin
 - [OrchestratorInc/agent-orchestrator#1330](https://github.com/OrchestratorInc/agent-orchestrator/pull/1330) fix(cli): derive projectId from prefixed issue id on spawn
-- [OrchestratorInc/agent-orchestrator#1334](https://github.com/OrchestratorInc/agent-orchestrator/pull/1334) fix(core): dispatch detailed bugbot review comments to agents
 <!--RECENT:END-->
 
 <br/>
